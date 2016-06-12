@@ -1,0 +1,16 @@
+{
+  "title": "My First Addon",
+  "name": "my-first-addon",
+  "version": "0.0.1",
+  "description": "My first attempt at development of a Firefox Addon",
+  "main": "index.js",
+  "author": "Arthur Peake",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
